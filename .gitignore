@@ -1,0 +1,88 @@
+# ===============================
+# Operating System Files
+# ===============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===============================
+# Temporary Files
+# ===============================
+*.tmp
+*.temp
+*.bak
+*.log
+*.swp
+
+# ===============================
+# Cadence Generated Files
+# ===============================
+INCA_libs/
+simv/
+csrc/
+*.key
+*.history
+*.jou
+*.log
+*.cmd
+*.conf
+*.rpt~
+*.shm
+*.trn
+*.wlf
+
+# ===============================
+# Simulation Outputs
+# ===============================
+*.vcd
+*.fsdb
+*.saif
+*.out
+*.dump
+
+# ===============================
+# Synthesis/Implementation
+# ===============================
+*.db
+*.ddc
+*.svf
+*.spef
+*.sdf
+*.lib~
+*.gds~
+*.lef~
+*.def~
+
+# ===============================
+# Backup Files
+# ===============================
+*~
+*.orig
+
+# ===============================
+# Editors
+# ===============================
+.vscode/
+.idea/
+*.code-workspace
+
+# ===============================
+# Python (if any scripts are used)
+# ===============================
+__pycache__/
+*.pyc
+*.pyo
+
+# ===============================
+# Archives
+# ===============================
+*.zip
+*.rar
+*.7z
+
+# ===============================
+# Reports (optional)
+# Uncomment if reports are generated automatically
+# ===============================
+# reports/*.log
+# reports/*.tmp
