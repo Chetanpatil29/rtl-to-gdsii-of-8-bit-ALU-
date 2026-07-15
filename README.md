@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates the complete RTL-to-GDSII ASIC implementation flow for an Air Quality Monitoring System using Verilog HDL and Cadence EDA tools.
+This project demonstrates the complete RTL-to-GDSII ASIC implementation flow for a 8 bit ALU  using Verilog HDL and Cadence EDA tools.
 
 The project covers the complete digital ASIC design cycle from RTL development to final GDSII generation.
 
