@@ -1,4 +1,4 @@
-# RTL-to-GDSII Flow for Air Quality Monitoring ASIC
+# RTL-to-GDSII Flow for 8 bit AlU 
 
 ## Overview
 
